@@ -39,6 +39,8 @@
     margin-left: 25px;
 }
 
+/* Text and Font Size  */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -47,6 +49,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Body Contents  */
 
 .hero {
     height: 800px;
@@ -186,6 +190,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer  */
 
 .footer {
     padding: 30px;
