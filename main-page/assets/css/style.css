@@ -4,9 +4,8 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
+
+/* Header Format  */
 
 .header {
     padding: 20px;
@@ -20,9 +19,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .header {
-    color: #d9dcd6;
-}
+/* Removed <h1> color change to red.  */
+
 
 .header div {
     padding-top: 15px;
