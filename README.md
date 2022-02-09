@@ -2,9 +2,13 @@
 
 ## Description
 
-    I was motivated to learn what keywords and understand the language of CSS and HTML semantics to ultimately create a working website. I built the project with the mindset to expand my understanding of web development and utilizing  tools that have always been acceesible to me but never knew they are at my disposal.
-    The problem that this website was able to solve was an easier user experience to navigate the page a little easier. I was able to link the "Search Engine Optimization" by adding code and reducing extra code that could be consolidated into one block of code. 
-    I learned although there can be code that originally was made by someone else, there is always room for improvement if your eyes are trained to see what issues to solve or to upgrade the code. A lot of DevTool application helped find the organization of code and what is applied, depending what keywords are being used.
+    I was motivated to learn what keywords and understand the language of CSS and HTML semantics to ultimately create a working website. 
+    I built the project with the mindset to expand my understanding of web development and utilizing  tools that have always been acceesible to me but never knew they are at my disposal.
+    The problem that this website was able to solve was an easier user experience to navigate the page a little easier. 
+    I was able to link the "Search Engine Optimization" by adding code and reducing extra code that could be consolidated into one block of code. 
+    I learned although there can be code that originally was made by someone else, 
+    there is always room for improvement if your eyes are trained to see what issues to solve or to upgrade the code. 
+    A lot of DevTool application helped find the organization of code and what is applied, depending what keywords are being used.
 
 ## Installation
 
@@ -17,10 +21,13 @@ Please utilize as you would navigate a website. The navigation at the top-right 
 
 ## Credits
 
-UTSA Coding Bootcamp
-Zaphryx1 (https://github.com/Zaphryx1)
+Creator - UTSA Coding Bootcamp
+Debugger - Zaphryx1 (https://github.com/Zaphryx1)
 
-Repository:
+## Repository:
+https://github.com/Zaphryx1/horiseon-ticket
+
+## Website:
 https://zaphryx1.github.io/horiseon-ticket/
 
 ## License
