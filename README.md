@@ -3,7 +3,8 @@
 ## Description
 
     I was motivated to learn what keywords and understand the language of CSS and HTML semantics to ultimately create a working website. 
-    I built the project with the mindset to expand my understanding of web development and utilizing  tools that have always been acceesible to me but never knew they are at my disposal.
+    I built the project with the mindset to expand my understanding of web development and utilizing 
+    tools that have always been accesible to me but never knew they are at my disposal.
     The problem that this website was able to solve was an easier user experience to navigate the page a little easier. 
     I was able to link the "Search Engine Optimization" by adding code and reducing extra code that could be consolidated into one block of code. 
     I learned although there can be code that originally was made by someone else, 
